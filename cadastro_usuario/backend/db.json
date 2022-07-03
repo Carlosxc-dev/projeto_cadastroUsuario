@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "artur oliveira",
+            "email": "aooliveira@coder3.com.br"
+        },
+        {
+            "id": 2,
+            "name": "maria julia da silva",
+            "email": "mjds@coder3.com.br"
+        }
+    ]
+}
