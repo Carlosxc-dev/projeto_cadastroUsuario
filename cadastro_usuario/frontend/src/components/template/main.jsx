@@ -1,6 +1,6 @@
 import React from "react";
 import "./main.css"
-import Header from "./header.css"
+import Header from "./header"
 
 
 export default props => {
